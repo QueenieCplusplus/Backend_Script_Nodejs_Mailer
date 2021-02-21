@@ -1,6 +1,8 @@
 # Backend_Script_Nodejs_Mailer
 MailGun
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/Backend_Script_Nodejs_Mailer/main/output2.png)
+
 ref:   
 
 https://www.npmjs.com/package/mail-notifier (npm module)
