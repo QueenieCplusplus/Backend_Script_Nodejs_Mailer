@@ -9,6 +9,10 @@ then browse to localhost:3000, and route to /mail
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Backend_Script_Nodejs_Mailer/main/output2.png)
 
+and browse to localhost:3000, and route to /nodemail
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/Backend_Script_Nodejs_Mailer/main/output3.png)
+
 ref:   
 
 https://www.npmjs.com/package/mail-notifier (npm module)
