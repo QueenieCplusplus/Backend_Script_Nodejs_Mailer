@@ -13,4 +13,6 @@ ref:
 
 https://www.npmjs.com/package/mail-notifier (npm module)
   
-https://npm.io/search/keyword:email 
+https://npm.io/search/keyword:email (maingun)
+
+https://nodemailer.com/about/ (nodemailer)
