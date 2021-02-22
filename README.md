@@ -13,6 +13,10 @@ and browse to localhost:3000, and route to /nodemail
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Backend_Script_Nodejs_Mailer/main/output3.png)
 
+and route to /gmail
+
+https://github.com/QueenieCplusplus/Backend_Script_Nodejs_Mailer/blob/main/KsExpressApp/routes/gmail.js
+
 ref:   
 
 https://www.npmjs.com/package/mail-notifier (npm module)
